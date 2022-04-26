@@ -1,7 +1,9 @@
 # 👋 Hi...Welcome to my HUB
 
+## ABOUT ME
 [![4.png](https://i.postimg.cc/MG9bDYqq/4.png)](https://postimg.cc/1gNqRw8j)
 
+I'm an **intermediate mobile app developer** with a passion for developing innovative apps and software solutions that meets business demand. Well-equipped in technology, write code to create systems that are reliable. Self-Motivated with a strong technical background and self-discipline, having the ability to organize and present complex solutions clearly. I Love to build/contribute to new projects so to broading my knowledge in the field and I Love learning new technologies. Working in a team or working alone are both fine for me and I like keeping myself busy with coding and reading.
 <!--
 **Dilichukwuchukwu/Dilichukwuchukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
