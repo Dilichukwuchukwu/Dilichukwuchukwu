@@ -1,4 +1,6 @@
-### Hi I'm Peter Obi👋
+# 👋 Hi I'm **Peter Obi**
+
+[![4.png](https://i.postimg.cc/MG9bDYqq/4.png)](https://postimg.cc/1gNqRw8j)
 
 <!--
 **Dilichukwuchukwu/Dilichukwuchukwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
